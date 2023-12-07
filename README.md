@@ -1,0 +1,11 @@
+# gui-8
+![Screenshot from 2023-12-04 13-07-46](https://github.com/SyalomielePratama/gui-8/assets/129130206/a7ffe212-a815-480e-9b4b-8d680be6b1ba)
+![Screenshot from 2023-12-04 13-08-38](https://github.com/SyalomielePratama/gui-8/assets/129130206/35796cb9-ba05-4084-bca6-1c575774d30b)
+![Screenshot from 2023-12-04 13-08-51](https://github.com/SyalomielePratama/gui-8/assets/129130206/233d8e30-7d5c-4018-97b3-56729ed2d451)
+![Screenshot from 2023-12-04 13-09-37](https://github.com/SyalomielePratama/gui-8/assets/129130206/35d260b4-670e-49c1-8430-ddc2889a6e56)
+![Screenshot from 2023-12-04 13-09-46](https://github.com/SyalomielePratama/gui-8/assets/129130206/0351680e-a357-4c54-b6b1-878b6a1fc72e)
+![Screenshot from 2023-12-04 13-10-17](https://github.com/SyalomielePratama/gui-8/assets/129130206/ffb912c1-a8dd-4351-90a8-5dd4f7417850)
+![Screenshot from 2023-12-04 13-10-32](https://github.com/SyalomielePratama/gui-8/assets/129130206/1e839e12-0cb8-46e0-a568-426e5f82ce0e)
+![Screenshot from 2023-12-04 13-11-01](https://github.com/SyalomielePratama/gui-8/assets/129130206/1f94a2f4-861d-4764-8927-0ea16e90a291)
+![Screenshot from 2023-12-04 13-11-09](https://github.com/SyalomielePratama/gui-8/assets/129130206/7373bf4e-d5b1-4637-b7b9-bc25ef803dd4)
+![Screenshot from 2023-12-04 13-11-44](https://github.com/SyalomielePratama/gui-8/assets/129130206/92431697-1799-449b-ae4a-f01563daf3be)
